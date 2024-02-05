@@ -2,6 +2,9 @@
 
 Miro Board [Link](https://miro.com/app/board/uXjVNxRgrc4=/?share_link_id=954161497836)
 
+Video Explaination - https://drive.google.com/file/d/1lUJd5X37ZFqrbIjDQ9FiiWpQieks2KzV/view?usp=sharing
+
+
 ### Pre-Requisite / Python learning Resources
 
 - [Python for Data Analysis](https://wesmckinney.com/book/)
@@ -40,6 +43,9 @@ Miro Board [Link](https://miro.com/app/board/uXjVNxRgrc4=/?share_link_id=9541614
 
 - [Deep Learning with focus on Computer Vision - CS231n](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
 - [NLP From Scratch to Language Models](https://youtube.com/playlist?list=PLoROMvodv4rMFqRtEuo6SGjY4XbRIVRd4&si=c4OI_irAMUJ8EF3U)
+- [HuggingFace Course](https://huggingface.co/learn/nlp-course/chapter1/1)
+- [GPT From Scratch] (https://huggingface.co/learn/nlp-course/chapter1/1)
+- [Transformers from Scratch] (https://e2eml.school/transformers.html)
 
 ### Applied Stats and Probability
 
@@ -55,6 +61,7 @@ Miro Board [Link](https://miro.com/app/board/uXjVNxRgrc4=/?share_link_id=9541614
 - [Designing Machine Learning Systems] (https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - Applied Stats - https://www.oreilly.com/library/view/practical-statistics-for/9781492072935/
 - [Mathematics for Machine Learning] (https://mml-book.github.io/book/mml-book.pdf)
+- https://www.deeplearning.ai/ - Good all encompassing resource to learn everything
 
 
 ### ML Practice
