@@ -46,6 +46,7 @@ Video Explaination - https://drive.google.com/file/d/1lUJd5X37ZFqrbIjDQ9FiiWpQie
 - [HuggingFace Course](https://huggingface.co/learn/nlp-course/chapter1/1)
 - [GPT From Scratch] (https://huggingface.co/learn/nlp-course/chapter1/1)
 - [Transformers from Scratch] (https://e2eml.school/transformers.html)
+- https://karpathy.github.io/neuralnets/
 
 ### Applied Stats and Probability
 
